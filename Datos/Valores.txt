@@ -1,0 +1,8 @@
+ABENGOA-CLB	http://www.eleconomista.es/descargas-historicos/empresa/ABENGOA-CLB/	2
+GAS-NATURAL	http://www.eleconomista.es/descargas-historicos/empresa/GAS-NATURAL/	2
+IBEX-35	http://www.eleconomista.es/descargas-historicos/indice/IBEX-35/	2
+INDITEX	http://www.eleconomista.es/descargas-historicos/empresa/INDITEX/	2
+Largada		2
+Perrete		2
+SANTANDER	http://www.eleconomista.es/descargas-historicos/empresa/SANTANDER/	2
+TELEFONICA	http://www.eleconomista.es/descargas-historicos/empresa/TELEFONICA/	2
